@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/tropic/static/css/main.4bf30489.chunk.css",
+    "main.js": "/tropic/static/js/main.937c781b.chunk.js",
+    "main.js.map": "/tropic/static/js/main.937c781b.chunk.js.map",
+    "runtime-main.js": "/tropic/static/js/runtime-main.702cfbf5.js",
+    "runtime-main.js.map": "/tropic/static/js/runtime-main.702cfbf5.js.map",
+    "static/js/2.917edc50.chunk.js": "/tropic/static/js/2.917edc50.chunk.js",
+    "static/js/2.917edc50.chunk.js.map": "/tropic/static/js/2.917edc50.chunk.js.map",
+    "index.html": "/tropic/index.html",
+    "static/css/main.4bf30489.chunk.css.map": "/tropic/static/css/main.4bf30489.chunk.css.map",
+    "static/js/2.917edc50.chunk.js.LICENSE.txt": "/tropic/static/js/2.917edc50.chunk.js.LICENSE.txt",
+    "static/media/albania.05ec88c5.jpg": "/tropic/static/media/albania.05ec88c5.jpg",
+    "static/media/borabora.c38e8235.jpg": "/tropic/static/media/borabora.c38e8235.jpg",
+    "static/media/cabosanlucas.058c7aa6.jpg": "/tropic/static/media/cabosanlucas.058c7aa6.jpg",
+    "static/media/cover.071a2992.mp4": "/tropic/static/media/cover.071a2992.mp4",
+    "static/media/croatia.e4dc0b36.jpg": "/tropic/static/media/croatia.e4dc0b36.jpg",
+    "static/media/greece.59dffe8a.jpg": "/tropic/static/media/greece.59dffe8a.jpg",
+    "static/media/maldives.51472d65.jpg": "/tropic/static/media/maldives.51472d65.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.702cfbf5.js",
+    "static/js/2.917edc50.chunk.js",
+    "static/css/main.4bf30489.chunk.css",
+    "static/js/main.937c781b.chunk.js"
+  ]
+}
